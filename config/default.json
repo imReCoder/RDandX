@@ -1,0 +1,7 @@
+{
+    "dbConfig": {
+        "connectionString": "mongodb://localhost:27017/firstpost",
+        "cludConnectionString":"mongodb+srv://Ranjit:Xccfyr3NiCsH1CxK@cluster0.ctput.mongodb.net/firstpost?retryWrites=true&w=majority",
+        "dbAcess":"cloud"
+    }
+}
